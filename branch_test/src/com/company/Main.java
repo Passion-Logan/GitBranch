@@ -3,9 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-    	System.out.println("hello world");
-        System.out.println("test marge");
-        System.out.println("update dev");
+	// write your code here
     }
 
     private static void newBranch() {
@@ -15,11 +13,7 @@ public class Main {
         System.out.println("2");
         System.out.println("3");
         System.out.println("4");
-        System.out.println("测试修改");
-        System.out.println("测试修改");
-        System.out.println("测试修改");
-        System.out.println("测试修改");
-
+        System.out.println("5");
     }
 
 }

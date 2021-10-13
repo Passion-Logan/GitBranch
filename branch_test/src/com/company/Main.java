@@ -7,4 +7,9 @@ public class Main {
         System.out.println("test marge");
         System.out.println("update dev");
     }
+
+    private static void newBranch() {
+        System.out.println("这是新分支");
+    }
+
 }

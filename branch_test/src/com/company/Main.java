@@ -8,6 +8,7 @@ public class Main {
 
     private static void newBranch() {
         System.out.println("这是新分支");
+        System.out.println("这是以前的修改");
     }
 
 }

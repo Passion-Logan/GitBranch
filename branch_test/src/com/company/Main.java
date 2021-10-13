@@ -10,6 +10,7 @@ public class Main {
 
     private static void newBranch() {
         System.out.println("这是新分支");
+        System.out.println("测试修改");
     }
 
 }
